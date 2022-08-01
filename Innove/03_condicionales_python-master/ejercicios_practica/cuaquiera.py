@@ -1,0 +1,2 @@
+letra='+';
+print(ord(letra))
